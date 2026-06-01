@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /node_modules/
+Disallow: /build/static/js/*.map
+Disallow: /build/static/css/*.map
+
+Allow: /build/static/js/
+Allow: /build/static/css/
