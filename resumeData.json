@@ -12,7 +12,7 @@
 
     "description":"Welcome! I am Taha Yazdani, a professional web designer and developer. This website serves as a platform to present my resume, emphasize my core skills, and showcase a range of projects I have contributed to — from small-scale solutions to large, complex initiatives",
 
-    "description2":"Thank you for visiting my profile and supporting my professional journey!",
+    "description2":"Thank you for visiting my profile ",
 
     "image":"profilepic.png",
 
@@ -28,7 +28,7 @@
 
     "email": "Tyazdaniit@gmail.com",
 
-    "phone": "+98- 915 006 4036",
+    "phone": "+98- 936  817  0917",
 
     "email1":"mailto:tyazdaniit@gmail.com",
 
@@ -45,7 +45,7 @@
     "social":[
       {
         "name":"whatsapp",
-        "url":"https://wa.me/+989150064036",
+        "url":"https://wa.me/+989368170917",
         "className":"fab fa-whatsapp",
         "title":"Whatsapp"
       },
@@ -103,16 +103,16 @@
     "Degrees":[
             {
         "school":"Data Program Academy",
-        "degree":"AI Agent (n8n)",
+        "degree":"Ai Agent (n8n)",
         "graduated":"January 2026",
         "url":"https://dataprogram.net/",
-        "degreesText":"",
-        "degreesPicUrl":""
+        "degreesText":"(View document)",
+        "degreesPicUrl":"https://i.ibb.co/HM1mcYQ/Certificate-Ai-Agent-N8-N.jpg"
       },
 
       {
         "school":"Data Program Academy",
-        "degree":"Python Programming Fundamentals",
+        "degree":"Basic Python Programming",
         "graduated":"March 2025",
         "url":"https://dataprogram.net/",
         "degreesText":"(View document)",
@@ -214,21 +214,21 @@
       {
         "name":"HTML",
         "level":"90%",
-        "iconSrc":"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg",
+        "iconSrc":"https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
         "iconHref":"https://fa.wikipedia.org/wiki/%D8%A7%DA%86%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%85%E2%80%8C%D8%A7%D9%84",
         "iconAlt":"HTML"
       },
       {
         "name":"CSS",
         "level":"90%",
-        "iconSrc":"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg",
+        "iconSrc":"https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000",
         "iconHref":"https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A7%D8%B3",
         "iconAlt":"CSS"
       },
       {
         "name":"Javascript",
         "level":"60%",
-        "iconSrc":"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg",
+        "iconSrc":"https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000",
         "iconHref":"https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%88%D8%A7%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA",
         "iconAlt":"JS"
       },
@@ -242,23 +242,23 @@
       {
         "name":"NextJs",
         "level":"50%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"NextJs"
       },
       {
         "name":"TypeScript",
         "level":"50%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"typeScript"
       },
       {
         "name":"NodeJs",
         "level":"30%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"nodeJs"
       },
       {
         "name":"Python",
@@ -291,37 +291,37 @@
       {
         "name":"mysql",
         "level":"30%",
-        "iconSrc":"https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png",
+        "iconSrc":"https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000",
         "iconHref":"https://fa.wikipedia.org/wiki/%D9%85%D8%A7%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%DA%A9%DB%8C%D9%88%D8%A7%D9%84",
-        "iconAlt":"MYSQL"
+        "iconAlt":"SQL"
       },
       {
         "name":"MongoDB",
         "level":"30%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"mongoDB"
       },
       {
         "name":"Docker",
         "level":"20%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"docker"
       },
       {
         "name":"DevOps",
         "level":"20%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=BejoiOeRfYSo&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"devops"
       },
       {
         "name":"SEO",
         "level":"30%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=21219&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"seo"
       },
       {
         "name":"UI/UX (figma)",
@@ -340,28 +340,28 @@
       {
         "name":"network+",
         "level":"70%",
-        "iconSrc":"https://images.credly.com/size/680x680/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png",
+        "iconSrc":"https://img.icons8.com/?size=100&id=S4NxkowMF95E&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":"NETWORK-PLUS"
+        "iconAlt":"NETWORK+"
       },
       {
         "name":"security+",
         "level":"40%",
         "iconSrc":"https://images.credly.com/size/680x680/images/313dc227-a720-48c0-87c2-d2e36f35e7c0/DigitalBadgeFinal_vanilla-5.png",
         "iconHref":"",
-        "iconAlt":"SECURITY-PLUS"
+        "iconAlt":"SECURITY+"
       },
       {
         "name":"Website Security",
         "level":"40%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=883Z1d4T6TTQ&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":""
+        "iconAlt":"security"
       },
       {
         "name":"a+ (Hardware)",
         "level":"30%",
-        "iconSrc":"https://images.credly.com/size/680x680/images/951f18a3-5b36-4217-b290-a18bb6c6901e/CompTIA_APlus.png",
+        "iconSrc":"https://img.icons8.com/?size=100&id=48331&format=png&color=000000",
         "iconHref":"https://fa.wikipedia.org/wiki/%D8%B3%D8%AE%D8%AA%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87",
         "iconAlt":"A-PLUS"
       },
@@ -375,16 +375,16 @@
       {
         "name":"HSE-MS",
         "level":"20%",
-        "iconSrc":"",
+        "iconSrc":"https://img.icons8.com/?size=100&id=pjRDULdaaqZO&format=png&color=000000",
         "iconHref":"",
-        "iconAlt":"HSE-MS"
+        "iconAlt":"HSE"
       },
       {
         "name":"Financial Software(sepidar, holoo)",
         "level":"50%",
         "iconSrc":"https://img.icons8.com/?size=100&id=7hlbPwzfOrZd&format=png&color=000000",
         "iconHref":"https://www.sepidarsystem.com/products/sepidar/accounting-system/",
-        "iconAlt":"Financial-software"
+        "iconAlt":"Financial"
       }
     ]
   },
